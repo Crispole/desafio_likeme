@@ -28,3 +28,5 @@ export const deletePost = (req, res) => {
 export const notFound = (req, res) => {
   res.status(404).json({ status: false, code: 500, message: 'No se ha encontrado la página' })
 }
+
+// El profesor hizo el desafio así
