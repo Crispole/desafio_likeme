@@ -1,7 +1,7 @@
 {
   "name": "like-me",
   "version": "1.0.0",
-  "description": "**Init Database**:\r psql -U YOUR_POSTGRES_USER -f api/database/DDL.sql",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "eslintConfig": {
